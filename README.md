@@ -1,9 +1,9 @@
 ![Terkey Termux Key](screenshot.jpg)
 
 # Terkey
-Is a tool for add keys to your Termux app.
+Ferramenta para add mais botões de comando no Termux.
 
-## How to install
+## Como instalar
 
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
@@ -13,23 +13,21 @@ Is a tool for add keys to your Termux app.
 * `$ python terkey.py`
 
 
-Or you can just copy code bellow and paste to your Termux app and of course, press enter !
+Ou Copie todo o comando abaixo e aperte enter:
 
 ```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd terkey;python terkey.py```
 
-## How to use?
-In latest update, i made this tool with userfriendly interface, so you can follow the menu.
 
-## Feature !
+## Recursos !
 
-As you can see in inage above, Terkey has 3 menu,
+como vc poderá ver, Terkey tem 3 opções,
 
 1. Use Default Keys
 1. Custom Keys
 1. About
 
-#### 1. Default Keys
-If you choose this option, the program will makes
+#### 1. Chaves padrão 
+Se você escolher esta opção, o programa deixará :
 `ESC,/,-,HOME,UP,END,PGUP,TAB,CTRL,ALT,LEFT,DOWN,RIGHT,PGDN`
 as your Termux key.
 
