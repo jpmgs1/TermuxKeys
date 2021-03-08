@@ -40,4 +40,4 @@ Sim, na última atualização, adicionei este recurso útil. Você pode personal
 Todos os comandos Termux [Termux Wiki](https://wiki.termux.com/wiki/Touch_Keyboard)
 
 ## Author
-Todas informações sobre mim na internet, basta digitar ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
+Se quiser tirar alguma dúvida, basta pesquisar no instagram ['jpmgs'](https://instagram.com/jpmgs) segue lá !
