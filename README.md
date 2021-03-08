@@ -31,7 +31,7 @@ Se você escolher esta opção, o programa deixará :
 
 `ESC,/,-,HOME,UP,END,PGUP,TAB,CTRL,ALT,LEFT,DOWN,RIGHT,PGDN`
 
-co ficará seus botões.
+como ficará seus botões.
 
 #### 2. Chaves personalizadas
 Sim, na última atualização, adicionei este recurso útil. Você pode personalizar suas próprias chaves. 
