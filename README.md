@@ -29,20 +29,15 @@ como vc poderá ver, Terkey tem 3 opções,
 #### 1. Chaves padrão 
 Se você escolher esta opção, o programa deixará :
 
-`ESC,/,-,HOME,UP,END,PGUP,TAB,CTRL,ALT,LEFT,DOWN,RIGHT,PGDN
+`ESC,/,-,HOME,UP,END,PGUP,TAB,CTRL,ALT,LEFT,DOWN,RIGHT,PGDN`
 
-as your Termux key.
+co ficará seus botões.
 
-#### 2. Custom keys
-Yeah, in latest update, i add this usefull feature. You can custom your own keys.
-You just sparating your keys with comma, like `ESC,CTRL,HOME,UP,RIGHT,{,},(,)` etc.
+#### 2. Chaves personalizadas
+Sim, na última atualização, adicionei este recurso útil. Você pode personalizar suas próprias chaves. 
+38 Você acabou de poupar suas chaves com vírgulas, como `ESC,CTRL,HOME,UP,RIGHT,{,},(,)` etc.
 
-All Termux key available in this [Termux Wiki](https://wiki.termux.com/wiki/Touch_Keyboard)
+Todos os comandos Termux [Termux Wiki](https://wiki.termux.com/wiki/Touch_Keyboard)
 
-#### 3. About
-Hmm.. this menu just contains a little shit about this tool and me
-
-> Hey, if you think this is very useful, give me star please !
-> Thanks !
 ## Author
-So many information about me in internet, just type ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
+Todas informações sobre mim na internet, basta digitar ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
