@@ -8,14 +8,14 @@ Ferramenta para add mais botões de comando no Termux.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
+* `$ git clone https://github.com/jpmgs1/TermuxKeys`
 * `$ cd terkey`
 * `$ python terkey.py`
 
 
 Ou Copie todo o comando abaixo e aperte enter:
 
-```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd terkey;python terkey.py```
+```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/jpmgs1/TermuxKeys;cd TermuxKeys;python terkey.py```
 
 
 ## Recursos !
@@ -28,7 +28,9 @@ como vc poderá ver, Terkey tem 3 opções,
 
 #### 1. Chaves padrão 
 Se você escolher esta opção, o programa deixará :
-`ESC,/,-,HOME,UP,END,PGUP,TAB,CTRL,ALT,LEFT,DOWN,RIGHT,PGDN`
+
+`ESC,/,-,HOME,UP,END,PGUP,TAB,CTRL,ALT,LEFT,DOWN,RIGHT,PGDN
+
 as your Termux key.
 
 #### 2. Custom keys
